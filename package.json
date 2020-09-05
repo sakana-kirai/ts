@@ -22,6 +22,8 @@
     "url": "https://github.com/sakana-kirai/ts/issues"
   },
   "homepage": "https://github.com/sakana-kirai/ts#readme",
-  "dependencies": {},
+  "dependencies": {
+    "axios": "^0.20.0"
+  },
   "description": ""
 }
